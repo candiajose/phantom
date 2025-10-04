@@ -1,0 +1,18 @@
+<svg fill="none" height="285" viewBox="0 0 1215 285" width="1215" xmlns="http://www.w3.org/2000/svg">
+  <g fill="#000">
+    <!-- J -->
+    <path d="m180 0h15v255h-45v30h60v-285z"/>
+    
+    <!-- O -->
+    <path d="m240 0h15v285h60v-285h15v285h-90z"/>
+    <path d="m255 15h60v255h-60z"/>
+    
+    <!-- T -->
+    <path d="m375 0h90v15h-90z"/>
+    <path d="m405 15h15v270h-15z"/>
+    
+    <!-- A -->
+    <path d="m525 0h15v45h15v240h15v-240h15v240h15v-240h15v-45h-75z"/>
+    <path d="m540 105h45v15h-45z"/>
+  </g>
+</svg>
